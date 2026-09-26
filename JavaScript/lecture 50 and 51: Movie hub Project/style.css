@@ -1,6 +1,6 @@
 .loader {
   --color-1: #fff;
-  --color-2: #ff3d00;
+  --color-2: #dc2626;
   --size: 1px;
 
   width: calc(48 * var(--size));
